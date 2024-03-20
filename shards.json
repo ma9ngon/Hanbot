@@ -3363,6 +3363,10 @@
                 "win_rate": 0.6258
             },
             {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            },
+            {
                 "name": "[HGPro]AIO",
                 "id": "[HGPro]AIO",
                 "pick_rate": 0.0349,
@@ -3659,6 +3663,10 @@
                 "win_rate": 0.6086
             },
             {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing"
             },
@@ -3837,6 +3845,10 @@
                 "win_rate": 0.5402
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1092,
@@ -3848,12 +3860,6 @@
     },
     "Qiyana": {
         "shards": [
-            {
-                "name": "CXJ AIO",
-                "id": "CXJ_AIO",
-                "pick_rate": 0.0419,
-                "win_rate": 0.6
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -3985,6 +3991,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0172,
                 "win_rate": 0.5867
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "RXing",
@@ -4177,6 +4187,10 @@
                 "win_rate": 0.6273
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0431,
@@ -4211,6 +4225,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0485,
                 "win_rate": 0.6298
+            },
+            {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
             },
             {
                 "name": "SA_AIO",
@@ -4493,6 +4511,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0166,
@@ -4509,6 +4531,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0781,
                 "win_rate": 0.7559
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6043,6 +6069,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1168,
                 "win_rate": 0.631
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0052,
@@ -6871,6 +6901,10 @@
                 "win_rate": 0.6551
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0182,
@@ -6917,6 +6951,10 @@
                 "id": "archer",
                 "pick_rate": 0.0158,
                 "win_rate": 0.6813
+            },
+            {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -7103,6 +7141,10 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.3265,
                 "win_rate": 0.7181
+            },
+            {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
             },
             {
                 "name": "Kornis AIO",
@@ -7705,6 +7747,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1047,
                 "win_rate": 0.5703
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
